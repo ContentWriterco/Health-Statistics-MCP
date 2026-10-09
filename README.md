@@ -50,3 +50,11 @@ No account or key is needed. A fair-use daily limit applies; for higher volumes 
 Part of the [Monitly](https://monit.ly/mcp-docs) MCP family. Full Monitly catalog (100,000+ datasets, all topics): https://monit.ly/api/mcp/public.
 
 Questions: info@monit.ly
+
+## Gemini CLI
+
+```bash
+gemini extensions install https://github.com/ContentWriterco/Health-Statistics-MCP
+```
+
+No account or key needed.

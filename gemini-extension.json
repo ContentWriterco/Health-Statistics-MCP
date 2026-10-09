@@ -1,0 +1,11 @@
+{
+  "name": "health-statistics",
+  "version": "1.0.0",
+  "description": "Health and population statistics: life expectancy, causes of death, health spending and demographics from WHO, Eurostat and OECD.",
+  "contextFileName": "GEMINI.md",
+  "mcpServers": {
+    "health-statistics": {
+      "httpUrl": "https://monit.ly/api/mcp/health"
+    }
+  }
+}
