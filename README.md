@@ -58,3 +58,7 @@ gemini extensions install https://github.com/ContentWriterco/Health-Statistics-M
 ```
 
 No account or key needed.
+
+## Setup guides
+
+Step-by-step setup guides for Claude, ChatGPT, Gemini, Grok, Le Chat, Perplexity, Cursor, VS Code and Claude Code: https://monit.ly/mcp/connect
