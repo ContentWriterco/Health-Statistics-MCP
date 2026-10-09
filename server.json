@@ -1,0 +1,24 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.ContentWriterco/health-statistics",
+  "title": "Health Statistics",
+  "description": "Health statistics for AI agents: life expectancy, causes of death, health spending, WHO data.",
+  "version": "1.0.0",
+  "websiteUrl": "https://monit.ly",
+  "icons": [
+    {
+      "src": "https://monit.ly/logo1000px.png",
+      "mimeType": "image/png"
+    }
+  ],
+  "repository": {
+    "url": "https://github.com/ContentWriterco/Health-Statistics-MCP",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://monit.ly/api/mcp/health"
+    }
+  ]
+}
